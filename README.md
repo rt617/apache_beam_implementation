@@ -1,5 +1,5 @@
 REM 1) Clone the repo
-git clone https://github.com/<your-username>/virginmedia-beam.git
+git clone https://github.com/rt617/apache_beam_implementation.git
 cd virginmedia-beam
 
 REM 2) (Optional) Create and activate a virtualenv
